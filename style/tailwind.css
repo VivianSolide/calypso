@@ -1,0 +1,46 @@
+@tailwind base;
+@font-face {
+  font-family: Proxima Nova;
+  src: url('../assets/fonts/proximanovalight-webfont.woff2') format('woff2'), url('../assets/fonts/proximanovalight-webfont.woff') format('woff');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Proxima Nova;
+  src: url('../assets/fonts/proximanovabold-webfont.woff2') format('woff2'), url('../assets/fonts/proximanovabold-webfont.woff') format('woff');
+  font-weight: 500;
+}
+
+html {
+  font-family: "Proxima Nova";
+  font-weight: bold;
+}
+
+.home__text-shadow {
+  box-shadow: 5px 5px #f5dcf2, 10px 10px #ffdd94, 15px 15px #f5dcf2;
+}
+
+@media (max-width: 600px) {
+  .homepage {
+    background-image: url('../assets/images/image-homepage.png');
+  }
+}
+
+@media (min-width: 601px) {
+  .homepage {
+    background-image: url('../assets/images/image-homepage-desktop.png');
+  }
+}
+
+.skew {
+  transform: skewY(-6deg);
+  transform-origin: top left;
+}
+
+.unskew {
+  transform: skewY(6deg);
+  transform-origin: top left;
+}
+
+@tailwind components;
+@tailwind utilities;

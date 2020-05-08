@@ -1,0 +1,15 @@
+{
+  "name": "calypso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss build style/tailwind.css -o style/index.css"
+  },
+  "author": "Vivian Sarazin",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.5"
+  }
+}
