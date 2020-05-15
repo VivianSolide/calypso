@@ -2642,44 +2642,34 @@ html {
   height: 100vh;
 }
 
-.text-xs {
-  font-size: 0.75rem;
-}
-
 .text-sm {
-  font-size: 0.875rem;
+  font-size: 15px;
+  line-height: 22.5px;
 }
 
 .text-base {
-  font-size: 1rem;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .text-lg {
-  font-size: 1.125rem;
+  font-size: 25px;
+  line-height: 37.5px;
 }
 
 .text-xl {
-  font-size: 1.25rem;
+  font-size: 30px;
+  line-height: 40px;
 }
 
 .text-2xl {
-  font-size: 1.5rem;
+  font-size: 45px;
+  line-height: 50px;
 }
 
 .text-3xl {
-  font-size: 1.875rem;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-}
-
-.text-5xl {
-  font-size: 3rem;
-}
-
-.text-6xl {
-  font-size: 4rem;
+  font-size: 65px;
+  line-height: 97.5px;
 }
 
 .leading-3 {
@@ -10582,44 +10572,34 @@ html {
     height: 100vh;
   }
 
-  .sm\:text-xs {
-    font-size: 0.75rem;
-  }
-
   .sm\:text-sm {
-    font-size: 0.875rem;
+    font-size: 15px;
+    line-height: 22.5px;
   }
 
   .sm\:text-base {
-    font-size: 1rem;
+    font-size: 20px;
+    line-height: 30px;
   }
 
   .sm\:text-lg {
-    font-size: 1.125rem;
+    font-size: 25px;
+    line-height: 37.5px;
   }
 
   .sm\:text-xl {
-    font-size: 1.25rem;
+    font-size: 30px;
+    line-height: 40px;
   }
 
   .sm\:text-2xl {
-    font-size: 1.5rem;
+    font-size: 45px;
+    line-height: 50px;
   }
 
   .sm\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .sm\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .sm\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .sm\:text-6xl {
-    font-size: 4rem;
+    font-size: 65px;
+    line-height: 97.5px;
   }
 
   .sm\:leading-3 {
@@ -18523,44 +18503,34 @@ html {
     height: 100vh;
   }
 
-  .md\:text-xs {
-    font-size: 0.75rem;
-  }
-
   .md\:text-sm {
-    font-size: 0.875rem;
+    font-size: 15px;
+    line-height: 22.5px;
   }
 
   .md\:text-base {
-    font-size: 1rem;
+    font-size: 20px;
+    line-height: 30px;
   }
 
   .md\:text-lg {
-    font-size: 1.125rem;
+    font-size: 25px;
+    line-height: 37.5px;
   }
 
   .md\:text-xl {
-    font-size: 1.25rem;
+    font-size: 30px;
+    line-height: 40px;
   }
 
   .md\:text-2xl {
-    font-size: 1.5rem;
+    font-size: 45px;
+    line-height: 50px;
   }
 
   .md\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .md\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .md\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .md\:text-6xl {
-    font-size: 4rem;
+    font-size: 65px;
+    line-height: 97.5px;
   }
 
   .md\:leading-3 {
@@ -26464,44 +26434,34 @@ html {
     height: 100vh;
   }
 
-  .lg\:text-xs {
-    font-size: 0.75rem;
-  }
-
   .lg\:text-sm {
-    font-size: 0.875rem;
+    font-size: 15px;
+    line-height: 22.5px;
   }
 
   .lg\:text-base {
-    font-size: 1rem;
+    font-size: 20px;
+    line-height: 30px;
   }
 
   .lg\:text-lg {
-    font-size: 1.125rem;
+    font-size: 25px;
+    line-height: 37.5px;
   }
 
   .lg\:text-xl {
-    font-size: 1.25rem;
+    font-size: 30px;
+    line-height: 40px;
   }
 
   .lg\:text-2xl {
-    font-size: 1.5rem;
+    font-size: 45px;
+    line-height: 50px;
   }
 
   .lg\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .lg\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .lg\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .lg\:text-6xl {
-    font-size: 4rem;
+    font-size: 65px;
+    line-height: 97.5px;
   }
 
   .lg\:leading-3 {
@@ -34405,44 +34365,34 @@ html {
     height: 100vh;
   }
 
-  .xl\:text-xs {
-    font-size: 0.75rem;
-  }
-
   .xl\:text-sm {
-    font-size: 0.875rem;
+    font-size: 15px;
+    line-height: 22.5px;
   }
 
   .xl\:text-base {
-    font-size: 1rem;
+    font-size: 20px;
+    line-height: 30px;
   }
 
   .xl\:text-lg {
-    font-size: 1.125rem;
+    font-size: 25px;
+    line-height: 37.5px;
   }
 
   .xl\:text-xl {
-    font-size: 1.25rem;
+    font-size: 30px;
+    line-height: 40px;
   }
 
   .xl\:text-2xl {
-    font-size: 1.5rem;
+    font-size: 45px;
+    line-height: 50px;
   }
 
   .xl\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .xl\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .xl\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .xl\:text-6xl {
-    font-size: 4rem;
+    font-size: 65px;
+    line-height: 97.5px;
   }
 
   .xl\:leading-3 {
